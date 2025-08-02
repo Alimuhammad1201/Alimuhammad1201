@@ -109,6 +109,9 @@
   <a href="https://wa.me/923312187411" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp">
   </a>
+  <a href="https://www.linkedin.com/in/ali-mehboob-muhammad/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+</a>
 </p>
 
 ---
