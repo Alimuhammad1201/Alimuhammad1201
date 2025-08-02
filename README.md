@@ -105,8 +105,10 @@
 ## 📬 Contact Me
 
 <p align="center">
-  <a href="mailto:uraza4086@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
-  <a href="https://github.com/Ubaid242"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"></a>
+  <a href="mailto:alimuhammad12.2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
+  <a href="https://wa.me/923312187411" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp">
+  </a>
 </p>
 
 ---
